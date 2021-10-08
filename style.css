@@ -1,0 +1,38 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background: #ffebfc;
+}
+
+.header_div {
+    background: powderblue;
+    color: #5d00ff;
+}
+
+.header_div p {
+    font-family: 'Cookie', cursive;
+    color: #3bd1b8;
+    letter-spacing: 2px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: #4a3146;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rosybrown;
+    bottom: 0;
+    width: 100%;
+    background-color: seashell;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #24001e;
+}
